@@ -1,0 +1,14 @@
+C:\Users\Harilson\Documents\Projetos\DIO\dio-desafio-poo\sys-smartphones\bin\Debug\net8.0\sys-smartphones.exe
+C:\Users\Harilson\Documents\Projetos\DIO\dio-desafio-poo\sys-smartphones\bin\Debug\net8.0\sys-smartphones.deps.json
+C:\Users\Harilson\Documents\Projetos\DIO\dio-desafio-poo\sys-smartphones\bin\Debug\net8.0\sys-smartphones.runtimeconfig.json
+C:\Users\Harilson\Documents\Projetos\DIO\dio-desafio-poo\sys-smartphones\bin\Debug\net8.0\sys-smartphones.dll
+C:\Users\Harilson\Documents\Projetos\DIO\dio-desafio-poo\sys-smartphones\bin\Debug\net8.0\sys-smartphones.pdb
+C:\Users\Harilson\Documents\Projetos\DIO\dio-desafio-poo\sys-smartphones\obj\Debug\net8.0\sys-smartphones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harilson\Documents\Projetos\DIO\dio-desafio-poo\sys-smartphones\obj\Debug\net8.0\sys-smartphones.AssemblyInfoInputs.cache
+C:\Users\Harilson\Documents\Projetos\DIO\dio-desafio-poo\sys-smartphones\obj\Debug\net8.0\sys-smartphones.AssemblyInfo.cs
+C:\Users\Harilson\Documents\Projetos\DIO\dio-desafio-poo\sys-smartphones\obj\Debug\net8.0\sys-smartphones.csproj.CoreCompileInputs.cache
+C:\Users\Harilson\Documents\Projetos\DIO\dio-desafio-poo\sys-smartphones\obj\Debug\net8.0\sys-smartphones.dll
+C:\Users\Harilson\Documents\Projetos\DIO\dio-desafio-poo\sys-smartphones\obj\Debug\net8.0\refint\sys-smartphones.dll
+C:\Users\Harilson\Documents\Projetos\DIO\dio-desafio-poo\sys-smartphones\obj\Debug\net8.0\sys-smartphones.pdb
+C:\Users\Harilson\Documents\Projetos\DIO\dio-desafio-poo\sys-smartphones\obj\Debug\net8.0\sys-smartphones.genruntimeconfig.cache
+C:\Users\Harilson\Documents\Projetos\DIO\dio-desafio-poo\sys-smartphones\obj\Debug\net8.0\ref\sys-smartphones.dll
