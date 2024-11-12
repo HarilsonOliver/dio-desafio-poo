@@ -35,4 +35,3 @@ Criar as suas classes de acordo com o diagrama abaixo:
 ## Licença
 
 Este projeto é livre para uso educacional e demonstração de conceitos de orientação a objetos.
-```
